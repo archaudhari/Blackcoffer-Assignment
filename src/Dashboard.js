@@ -79,7 +79,7 @@ export default class Dashboard extends Component {
                     <Footer style={{ height: 20 }}>
                         <div style={{marginTop: -10}}>
                             Source Code <a href='https://github.com/archaudhari/Blackcoffer-Assignment.git'>https://github.com/archaudhari/Blackcoffer-Assignment.git</a>;
-                            Author <a href=''>Demo</a>;
+                            Author <a href='https://visualization-dashboard-react-d3.netlify.app/'>Demo</a>;
                         </div>
                     </Footer>
                 </Layout>
